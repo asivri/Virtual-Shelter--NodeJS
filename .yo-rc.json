@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "A project that makes all the animal shelters online and under one place",
+    "author": "Ahmet",
+    "templateModule": "makara",
+    "i18n": "i18n",
+    "componentPackager": false,
+    "cssModule": "less",
+    "jsModule": "requirejs",
+    "useJson": null
+  }
+}
